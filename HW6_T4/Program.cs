@@ -15,6 +15,7 @@ namespace HW6_T4
             President prst = new President("Mr.President");
             Console.WriteLine(mngr.Print());
             Console.WriteLine(prst.Print());
+
         }
     }
 }
